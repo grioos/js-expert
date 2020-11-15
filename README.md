@@ -5,11 +5,11 @@
 
 ## Lista de Títulos
 
-![titulos](./prints/titulos.png)
+![titulos](./aula01/prints/titulos.png)
 
 ## Vídeo
 
-![titulos](./prints/demo.png)
+![titulos](./aula01/prints/demo.png)
 
 ### Créditos
 
